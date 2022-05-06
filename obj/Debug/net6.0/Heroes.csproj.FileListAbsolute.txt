@@ -1,0 +1,15 @@
+/home/pietrosf/vagas/bootcamps/Csharp-GFT/Heroes/obj/Debug/net6.0/Heroes.csproj.AssemblyReference.cache
+/home/pietrosf/vagas/bootcamps/Csharp-GFT/Heroes/obj/Debug/net6.0/Heroes.GeneratedMSBuildEditorConfig.editorconfig
+/home/pietrosf/vagas/bootcamps/Csharp-GFT/Heroes/obj/Debug/net6.0/Heroes.AssemblyInfoInputs.cache
+/home/pietrosf/vagas/bootcamps/Csharp-GFT/Heroes/obj/Debug/net6.0/Heroes.AssemblyInfo.cs
+/home/pietrosf/vagas/bootcamps/Csharp-GFT/Heroes/obj/Debug/net6.0/Heroes.csproj.CoreCompileInputs.cache
+/home/pietrosf/vagas/bootcamps/Csharp-GFT/Heroes/bin/Debug/net6.0/Heroes
+/home/pietrosf/vagas/bootcamps/Csharp-GFT/Heroes/bin/Debug/net6.0/Heroes.deps.json
+/home/pietrosf/vagas/bootcamps/Csharp-GFT/Heroes/bin/Debug/net6.0/Heroes.runtimeconfig.json
+/home/pietrosf/vagas/bootcamps/Csharp-GFT/Heroes/bin/Debug/net6.0/Heroes.dll
+/home/pietrosf/vagas/bootcamps/Csharp-GFT/Heroes/bin/Debug/net6.0/ref/Heroes.dll
+/home/pietrosf/vagas/bootcamps/Csharp-GFT/Heroes/bin/Debug/net6.0/Heroes.pdb
+/home/pietrosf/vagas/bootcamps/Csharp-GFT/Heroes/obj/Debug/net6.0/Heroes.dll
+/home/pietrosf/vagas/bootcamps/Csharp-GFT/Heroes/obj/Debug/net6.0/ref/Heroes.dll
+/home/pietrosf/vagas/bootcamps/Csharp-GFT/Heroes/obj/Debug/net6.0/Heroes.pdb
+/home/pietrosf/vagas/bootcamps/Csharp-GFT/Heroes/obj/Debug/net6.0/Heroes.genruntimeconfig.cache
